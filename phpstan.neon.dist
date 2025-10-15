@@ -1,0 +1,12 @@
+parameters:
+    level: 9
+    paths:
+        - app
+        - src
+        - database
+    excludePaths:
+        analyse:
+            - storage/*
+            - bootstrap/cache/*
+    treatPhpDocTypesAsCertain: false
+    tmpDir: var/cache/phpstan

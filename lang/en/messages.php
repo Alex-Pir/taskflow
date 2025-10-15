@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'Tasks' => 'Tasks',
+    'My Tasks' => 'My Tasks',
+    'Create Task' => 'Create Task',
+    'Search' => 'Search',
+    'Status' => 'Status',
+    'All statuses' => 'All statuses',
+    'Pending' => 'Pending',
+    'In Progress' => 'In Progress',
+    'Completed' => 'Completed',
+    'Project' => 'Project',
+    'All projects' => 'All projects',
+    'Filter' => 'Filter',
+    'Tasks List' => 'Tasks List',
+    'Title' => 'Title',
+    'Description' => 'Description',
+    'End Date' => 'End Date',
+    'Actions' => 'Actions',
+    'No tasks found.' => 'No tasks found.',
+    'View' => 'View',
+    'Edit' => 'Edit',
+    'Delete' => 'Delete',
+    'Are you sure?' => 'Are you sure?',
+    'No project' => 'No project',
+    'No date' => 'No date',
+];
