@@ -2,4 +2,7 @@
 
 return [
     App\Providers\AppServiceProvider::class,
+    App\Providers\VoltServiceProvider::class,
+    App\Providers\DomainServiceProvider::class,
+    App\Providers\RouteServiceProvider::class,
 ];
